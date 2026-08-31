@@ -1,0 +1,5 @@
+node_modules/
+.env
+g168.db
+g168.db-shm
+g168.db-wal

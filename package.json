@@ -1,0 +1,17 @@
+{
+  "name": "g168-sport",
+  "version": "1.0.0",
+  "description": "G168 SPORT - fully automated Telegram football tips & prediction bot",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "better-sqlite3": "^11.9.1",
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "node-cron": "^3.0.3"
+  }
+}
